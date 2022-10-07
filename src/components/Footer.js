@@ -8,7 +8,7 @@ const Footer = () => (
           <h5 className="text-uppercase">Smart Aid</h5>
           <p>
             Access video consultation with top doctors on the Smart Aid. Connect
-            with doctors online, available 24/7, from the comfort of your home.
+            with doctors online, available 24/7, from the comfort of your home Nidhi.
           </p>
         </div>
 
